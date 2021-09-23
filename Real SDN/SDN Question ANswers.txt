@@ -1,0 +1,27 @@
+
+Question:
+These problems identified are addressed in the present research concerning the use of SDN, which is explored from a
+different perspective?
+
+Answer:
+SDN helps to centralized the computer network. This study based on the use of protocals, network flow and the IP addresses for monitring 
+the Network and its flow. This make the SDN NMS (Network Monitoring System) alot strong towards the more incoming attacks.
+
+
+Question:
+Documentation regarding software development artefact?
+
+Answer:
+The artefact of a software development is the data models the .txt file is the datasets and it includes IPs, Network type, protocals and Platforms etc..
+to train the models that help us to identifys the attacks like dos, probe and access etc.. 
+
+
+Question:
+How SDN is used in my project ?
+
+Answer:
+In this code datasets are helping the SDN model to train the network. The SDN model approach is for identifying the attack scenario for the computer newtorks. it is centralizing itself by 
+using NMS server synchronization and correspondence by the help of Software Defining Network controling the flow of virtualized resourceses it became 
+more secured.
+
+
